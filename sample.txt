@@ -1,2 +1,3 @@
 this is first file to be constructed for git repositor:y
-This is second file to be created for the demo repositorty
+This is second file to be created for the demo repsitory
+Tobe added comments
